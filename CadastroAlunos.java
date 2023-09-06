@@ -1,3 +1,6 @@
+//Isabelly Barbosa Gonçalves
+//João Antonio Dias
+
 import javax.swing.*;
 import java.awt.*;
 import java.awt.event.*;
